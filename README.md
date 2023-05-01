@@ -48,6 +48,10 @@ The following images show the POST route for a reactions being tested in Insomni
 
 ![image](https://user-images.githubusercontent.com/118077086/235544213-0d581381-65c2-4f39-9572-ac0901a09eb3.png)
 
+### Walkthrough video
+
+https://drive.google.com/file/d/1EMZSUdPBCp7Tle0EY76nKDJJfX_H-Drh/view?usp=sharing
+
 ## Needs
 
 Be sure to have MongoDB and all dependencies installed on your machine. (npm install)
